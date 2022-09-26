@@ -5,7 +5,7 @@
 ![Under-Maintenance-Page](https://i.ibb.co/cQV4gtB/screencapture-file-C-Users-mayur-Desktop-INeuron-Web-Deve-15-HTML-CSS-Projects-project-7-maintianenc.png)
 
 
-## 🔗Live Link -: [Amazon Prime Clone ](https://mayurpatillll.github.io/Under-Maintenance-Page-Design)
+## 🔗Live Link -: [Under-Maintenance-Page ](https://mayurpatillll.github.io/Under-Maintenance-Page-Design)
 
 
 ## Connect With Me
